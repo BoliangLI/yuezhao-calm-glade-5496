@@ -1,8 +1,8 @@
 {
-  "name": "vite-react-template",
+  "name": "vite-react-typescript-starter",
   "installCommand": "npm install",
   "assets": {
-    "directory": "./vite-react-template/dist",
+    "directory": "./dist",
     "notFoundStrategy": "singlePageApplication"
   }
 }
