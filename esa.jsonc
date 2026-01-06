@@ -1,8 +1,9 @@
 {
-  "name": "vite-react-template",
-  "installCommand": "npm install",
-  "assets": {
-    "directory": "./vite-react-template/dist",
-    "notFoundStrategy": "singlePageApplication"
-  }
-}
+      "name": "yuezhao-calm-glade-5496",
+      "installCommand": "npm install",
+      "buildCommand": "npm run build",
+      "assets": {
+        "directory": "./dist",
+        "notFoundStrategy": "singlePageApplication"
+      }
+    }
