@@ -1,0 +1,10 @@
+{
+  "name": "vite-react-typescript-starter",
+  "entry": "./src/main.tsx",
+  "installCommand": "npm install",
+  "buildCommand": "tsc -b && vite build",
+  "assets": {
+    "directory": "./dist",
+    "notFoundStrategy": "singlePageApplication"
+  }
+}
