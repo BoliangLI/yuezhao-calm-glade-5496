@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "build": "tsc -b && vite build"
   },
   "dependencies": {
     "react": "^19.1.1",
