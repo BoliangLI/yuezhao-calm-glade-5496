@@ -1,0 +1,10 @@
+{
+  "name": "my-project",
+  "entry": "./src/index.tsx",
+  "installCommand": "npm install",  // 确保 installCommand 设置为 npm install
+  "buildCommand": "npm run build",
+  "assets": {
+    "directory": "./dist",
+    "notFoundStrategy": "singlePageApplication"
+  }
+}
