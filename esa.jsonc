@@ -1,10 +1,9 @@
 {
   "name": "my-project",
-  "entry": "./src/index.tsx",
   "installCommand": "npm install",
   "buildCommand": "npm run build",
   "assets": {
-    "directory": "./test/dist",
+    "directory": "./dist",
     "notFoundStrategy": "singlePageApplication"
   }
 }
